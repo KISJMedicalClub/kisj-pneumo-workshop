@@ -27,7 +27,7 @@ As the **Medical Club President**, I designed and tutored this workshop for stud
 ## Curriculum Summary
 
 | Week | Topic | Main Focus |
-|---|---|---|
+|----|---|---|
 | Week 1 | Vision Principles & Data Check | Google Colab, datasets, PneumoniaMNIST, normal vs. pneumonia X-ray visualization |
 | Week 2 | AI Model Design - CNN Basics | Conv2D, MaxPooling, Flatten, Dense, Sequential CNN model construction |
 | Week 3 | Intensive Training & Loss | Epoch, loss, accuracy, model training, training graphs, model saving |
